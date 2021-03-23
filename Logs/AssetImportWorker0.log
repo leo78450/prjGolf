@@ -1,0 +1,469 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.0f1 (c7b5465681fb) revision 13088070'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19041.867; Version 2004; 64bit' Language: 'fr' Physical Memory: 32684 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Harpi/Documents/Boulots/2020-2021/2ème Semestre/Infographie et 3D avec Unity/Cours 16.03.21
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+55202
+Successfully changed project path to: C:/Users/Harpi/Documents/Boulots/2020-2021/2ème Semestre/Infographie et 3D avec Unity/Cours 16.03.21
+C:/Users/Harpi/Documents/Boulots/2020-2021/2ème Semestre/Infographie et 3D avec Unity/Cours 16.03.21
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 29.83 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.0f1 (c7b5465681fb)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Harpi/Documents/Boulots/2020-2021/2ème Semestre/Infographie et 3D avec Unity/Cours 16.03.21/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940MX (ID=0x134d)
+    Vendor:   
+    VRAM:     2010 MB
+    Driver:   27.21.14.6192
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56032
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005669 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 41.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.127 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001244 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.165 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1121 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.5 MB.
+System memory in use after: 70.5 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1586.
+Total: 2.617400 ms (FindLiveObjects: 0.707600 ms CreateObjectMapping: 0.116200 ms MarkObjects: 1.684400 ms  DeleteObjects: 0.108000 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Modeles3D_Golf/Objects
+  artifactKey: Guid(dd18442b5bfe8154eac924d77f82e4f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modeles3D_Golf/Objects using Guid(dd18442b5bfe8154eac924d77f82e4f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bee43fe093aec63912ced5dccaa4ff2') in 0.006193 seconds
+  Import took 0.009472 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000603 seconds.
+  path: Assets/Modeles3D_Golf
+  artifactKey: Guid(baab4bbb025e28b4d9f260ba4da9e13d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modeles3D_Golf using Guid(baab4bbb025e28b4d9f260ba4da9e13d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41b448d22c9bdbf1b253ce061736280d') in 0.005197 seconds
+  Import took 0.008928 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 372.378793 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(1542f6c8364c1354185526eeee4d8e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(1542f6c8364c1354185526eeee4d8e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a00cec18be1906cf06bc95e1af755b46') in 0.004105 seconds
+  Import took 0.006952 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 75.676005 seconds.
+  path: Assets/Scenes/ForceField.mat
+  artifactKey: Guid(b578aebe8c2d74042abc8f7ce744c5a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/ForceField.mat using Guid(b578aebe8c2d74042abc8f7ce744c5a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '117c3dc6332f0252e6c17a25fe93d935') in 0.262619 seconds
+  Import took 0.264911 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001662 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.383 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 73.7 MB.
+System memory in use after: 73.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1629.
+Total: 2.663000 ms (FindLiveObjects: 0.261800 ms CreateObjectMapping: 0.075300 ms MarkObjects: 2.222900 ms  DeleteObjects: 0.099900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001075 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.979 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 73.7 MB.
+System memory in use after: 73.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1632.
+Total: 2.538000 ms (FindLiveObjects: 0.211000 ms CreateObjectMapping: 0.051000 ms MarkObjects: 2.194000 ms  DeleteObjects: 0.080100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1364.289324 seconds.
+  path: Assets/Modeles3D_Golf/LowPoly_Vegetation/3D Models/Tree_10_Floating_Island.fbx
+  artifactKey: Guid(508f7d37873a08d4685c45f1ad8a0998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modeles3D_Golf/LowPoly_Vegetation/3D Models/Tree_10_Floating_Island.fbx using Guid(508f7d37873a08d4685c45f1ad8a0998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b25f27c32a8b47c7a73f373a99ff995') in 0.247058 seconds
+  Import took 0.251159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000490 seconds.
+  path: Assets/Modeles3D_Golf/LowPoly_Vegetation/3D Models/Leafless_Tree.fbx
+  artifactKey: Guid(6b88f94b7a5e22a49b192cd3d3dec50a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modeles3D_Golf/LowPoly_Vegetation/3D Models/Leafless_Tree.fbx using Guid(6b88f94b7a5e22a49b192cd3d3dec50a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '461e9c9fd9fa3459fffa43759c6dbdb3') in 0.025706 seconds
+  Import took 0.027969 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000396 seconds.
+  path: Assets/Modeles3D_Golf/LowPoly_Vegetation/3D Models/Mushroom.fbx
+  artifactKey: Guid(0b0b8f216c27c7b45b88ffdad8d2b0f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modeles3D_Golf/LowPoly_Vegetation/3D Models/Mushroom.fbx using Guid(0b0b8f216c27c7b45b88ffdad8d2b0f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ba3aefb01a4806b21e5095fb680b042') in 0.045955 seconds
+  Import took 0.048883 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000595 seconds.
+  path: Assets/Modeles3D_Golf/LowPoly_Vegetation/3D Models/Mushroom_2.fbx
+  artifactKey: Guid(868e8bfe2e2de364bb97423f669b065b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modeles3D_Golf/LowPoly_Vegetation/3D Models/Mushroom_2.fbx using Guid(868e8bfe2e2de364bb97423f669b065b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97ec0f5dce129901b974537ce3793eb2') in 0.043565 seconds
+  Import took 0.047322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.124959 seconds.
+  path: Assets/Modeles3D_Golf/LowPoly_Vegetation/3D Models/Tree_9.fbx
+  artifactKey: Guid(91589054b9a244b449eb0554420c413b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modeles3D_Golf/LowPoly_Vegetation/3D Models/Tree_9.fbx using Guid(91589054b9a244b449eb0554420c413b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21a03cb7422960f11eb6e464edf3fc9b') in 0.041543 seconds
+  Import took 0.045330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000526 seconds.
+  path: Assets/Modeles3D_Golf/LowPoly_Vegetation/3D Models/Leafless_Tree_2.fbx
+  artifactKey: Guid(dbded58bb9e0fc048a79c0038f66fd62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modeles3D_Golf/LowPoly_Vegetation/3D Models/Leafless_Tree_2.fbx using Guid(dbded58bb9e0fc048a79c0038f66fd62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '728ec64d16187cfea808695802c434cf') in 0.038257 seconds
+  Import took 0.041779 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000408 seconds.
+  path: Assets/Modeles3D_Golf/LowPoly_Vegetation/3D Models/Pine_1.fbx
+  artifactKey: Guid(92de54760d84377468157df5d6a6347c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modeles3D_Golf/LowPoly_Vegetation/3D Models/Pine_1.fbx using Guid(92de54760d84377468157df5d6a6347c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0227be93fbef1b9850b5e4e379ff7eae') in 0.076448 seconds
+  Import took 0.081172 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000552 seconds.
+  path: Assets/Modeles3D_Golf/LowPoly_Vegetation/3D Models/Pine_4.fbx
+  artifactKey: Guid(d1c5e0cb7f9756449b2d2b13ec42d9f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modeles3D_Golf/LowPoly_Vegetation/3D Models/Pine_4.fbx using Guid(d1c5e0cb7f9756449b2d2b13ec42d9f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5c5f54e9434cb3c457630ece32fd2b8') in 0.064609 seconds
+  Import took 0.081475 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000457 seconds.
+  path: Assets/Modeles3D_Golf/LowPoly_Vegetation/3D Models/Pine_2.fbx
+  artifactKey: Guid(6ffc8206b7f9a814ba095e4fdcfe29f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modeles3D_Golf/LowPoly_Vegetation/3D Models/Pine_2.fbx using Guid(6ffc8206b7f9a814ba095e4fdcfe29f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b1c0e2c2010d81473690b008ae1fc28') in 0.051094 seconds
+  Import took 0.054731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000476 seconds.
+  path: Assets/Modeles3D_Golf/LowPoly_Vegetation/3D Models/Leafless_Tree_2.fbx
+  artifactKey: Guid(dbded58bb9e0fc048a79c0038f66fd62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modeles3D_Golf/LowPoly_Vegetation/3D Models/Leafless_Tree_2.fbx using Guid(dbded58bb9e0fc048a79c0038f66fd62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '728ec64d16187cfea808695802c434cf') in 0.024819 seconds
+  Import took 0.027992 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000432 seconds.
+  path: Assets/Modeles3D_Golf/LowPoly_Vegetation/3D Models/Palm_2.fbx
+  artifactKey: Guid(56ca9dfd8ee774e4f83d4f3d32ddbd54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modeles3D_Golf/LowPoly_Vegetation/3D Models/Palm_2.fbx using Guid(56ca9dfd8ee774e4f83d4f3d32ddbd54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f8639c1fed4709ddfbc89632a678210') in 0.063200 seconds
+  Import took 0.066961 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000539 seconds.
+  path: Assets/Modeles3D_Golf/LowPoly_Vegetation/3D Models/Palm_1.fbx
+  artifactKey: Guid(b9a23712b65256c4f87d62e8fb2a59fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modeles3D_Golf/LowPoly_Vegetation/3D Models/Palm_1.fbx using Guid(b9a23712b65256c4f87d62e8fb2a59fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da8f8d1d21aa839ac48484d4d2735731') in 0.065937 seconds
+  Import took 0.068671 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000417 seconds.
+  path: Assets/Modeles3D_Golf/LowPoly_Vegetation/3D Models/Palm_3.fbx
+  artifactKey: Guid(65ce26b428793494db19c6e72b319362) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modeles3D_Golf/LowPoly_Vegetation/3D Models/Palm_3.fbx using Guid(65ce26b428793494db19c6e72b319362) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c8f5f519230931ee6460798accd5109') in 0.059212 seconds
+  Import took 0.062037 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000434 seconds.
+  path: Assets/Modeles3D_Golf/LowPoly_Vegetation/3D Models/Tree_9.fbx
+  artifactKey: Guid(91589054b9a244b449eb0554420c413b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modeles3D_Golf/LowPoly_Vegetation/3D Models/Tree_9.fbx using Guid(91589054b9a244b449eb0554420c413b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21a03cb7422960f11eb6e464edf3fc9b') in 0.035093 seconds
+  Import took 0.038530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000459 seconds.
+  path: Assets/Modeles3D_Golf/LowPoly_Vegetation/3D Models/Palm_3.fbx
+  artifactKey: Guid(65ce26b428793494db19c6e72b319362) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modeles3D_Golf/LowPoly_Vegetation/3D Models/Palm_3.fbx using Guid(65ce26b428793494db19c6e72b319362) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c8f5f519230931ee6460798accd5109') in 0.050290 seconds
+  Import took 0.053657 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002360 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.052 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.0 MB.
+System memory in use after: 74.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1639.
+Total: 2.228700 ms (FindLiveObjects: 0.263000 ms CreateObjectMapping: 0.069900 ms MarkObjects: 1.821400 ms  DeleteObjects: 0.072200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 330.707643 seconds.
+  path: Assets/LowPolyWater_Pack/LowPoly Island/Materials/defaultMat.mat
+  artifactKey: Guid(d2eb244800e2d304294ad0d988d5260c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyWater_Pack/LowPoly Island/Materials/defaultMat.mat using Guid(d2eb244800e2d304294ad0d988d5260c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '680c58b3855e1e755a77ea1015cc4555') in 0.123643 seconds
+  Import took 0.126154 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000415 seconds.
+  path: Assets/LowPolyWater_Pack/LowPoly Island/Materials/IslandMat.mat
+  artifactKey: Guid(45d08f8aef3838d45806cd4442223977) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyWater_Pack/LowPoly Island/Materials/IslandMat.mat using Guid(45d08f8aef3838d45806cd4442223977) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cb38a52aea81dd4ea265a0744dca36e') in 0.049021 seconds
+  Import took 0.051991 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000429 seconds.
+  path: Assets/Modeles3D_Golf/LowPoly_Vegetation/3D Models/Tree_11.fbx
+  artifactKey: Guid(b384ebb09c83be945a5787ddf86eedff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modeles3D_Golf/LowPoly_Vegetation/3D Models/Tree_11.fbx using Guid(b384ebb09c83be945a5787ddf86eedff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58cad41227237227608dd6ae9c243d56') in 0.102933 seconds
+  Import took 0.105454 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001554 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.582 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.1 MB.
+System memory in use after: 74.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1643.
+Total: 5.552500 ms (FindLiveObjects: 0.613700 ms CreateObjectMapping: 0.434000 ms MarkObjects: 4.411200 ms  DeleteObjects: 0.091000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000921 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.081 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.1 MB.
+System memory in use after: 74.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1646.
+Total: 2.750800 ms (FindLiveObjects: 0.246100 ms CreateObjectMapping: 0.059300 ms MarkObjects: 2.337000 ms  DeleteObjects: 0.106200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000865 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.990 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.1 MB.
+System memory in use after: 74.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1649.
+Total: 2.593500 ms (FindLiveObjects: 0.441800 ms CreateObjectMapping: 0.060300 ms MarkObjects: 2.009100 ms  DeleteObjects: 0.079300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000891 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.135 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.1 MB.
+System memory in use after: 74.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1652.
+Total: 3.913700 ms (FindLiveObjects: 0.294700 ms CreateObjectMapping: 0.128700 ms MarkObjects: 3.373300 ms  DeleteObjects: 0.114600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001042 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.128 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.1 MB.
+System memory in use after: 74.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1655.
+Total: 2.523300 ms (FindLiveObjects: 0.266900 ms CreateObjectMapping: 0.106100 ms MarkObjects: 2.024000 ms  DeleteObjects: 0.123300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001281 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.302 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.1 MB.
+System memory in use after: 74.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1658.
+Total: 2.416500 ms (FindLiveObjects: 0.261500 ms CreateObjectMapping: 0.115600 ms MarkObjects: 1.929700 ms  DeleteObjects: 0.107800 ms)
+
